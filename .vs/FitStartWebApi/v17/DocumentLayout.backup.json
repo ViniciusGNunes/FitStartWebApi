@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|c:\\users\\vinig\\dev\\projetos\\fitstart\\fitstartwebapi\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|solutionrelative:controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|c:\\users\\vinig\\dev\\projetos\\fitstart\\fitstartwebapi\\services\\calculationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|solutionrelative:services\\calculationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|c:\\users\\vinig\\dev\\projetos\\fitstart\\fitstartwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|c:\\users\\vinig\\dev\\projetos\\fitstart\\fitstartwebapi\\models\\caloriecalcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|solutionrelative:models\\caloriecalcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|c:\\users\\vinig\\dev\\projetos\\fitstart\\fitstartwebapi\\enums\\activitylevelenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|solutionrelative:enums\\activitylevelenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|c:\\users\\vinig\\dev\\projetos\\fitstart\\fitstartwebapi\\fitstartwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F94B539E-054A-8BDE-050E-5F8591812686}|FitStartWebApi.csproj|solutionrelative:fitstartwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:52:08.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationServices.cs",
+              "DocumentMoniker": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Services\\CalculationServices.cs",
+              "RelativeDocumentMoniker": "Services\\CalculationServices.cs",
+              "ToolTip": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Services\\CalculationServices.cs",
+              "RelativeToolTip": "Services\\CalculationServices.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:18:10.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalorieCalcModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Models\\CalorieCalcModel.cs",
+              "RelativeDocumentMoniker": "Models\\CalorieCalcModel.cs",
+              "ToolTip": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Models\\CalorieCalcModel.cs",
+              "RelativeToolTip": "Models\\CalorieCalcModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:58:19.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationsController.cs",
+              "DocumentMoniker": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Controllers\\CalculationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculationsController.cs",
+              "ToolTip": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Controllers\\CalculationsController.cs",
+              "RelativeToolTip": "Controllers\\CalculationsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:56:28.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivityLevelEnum.cs",
+              "DocumentMoniker": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Enums\\ActivityLevelEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\ActivityLevelEnum.cs",
+              "ToolTip": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\Enums\\ActivityLevelEnum.cs",
+              "RelativeToolTip": "Enums\\ActivityLevelEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:07:01.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FitStartWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\FitStartWebApi.csproj",
+              "RelativeDocumentMoniker": "FitStartWebApi.csproj",
+              "ToolTip": "C:\\Users\\vinig\\dev\\Projetos\\FitStart\\FitStartWebApi\\FitStartWebApi.csproj",
+              "RelativeToolTip": "FitStartWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T01:49:53.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

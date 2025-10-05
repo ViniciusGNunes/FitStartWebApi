@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitStartWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65a5a2069661e44478aa0546bff2e40c7a11fea7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d019e9e5bb3a079dde6162832cb033f2c0d4b93")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitStartWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitStartWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
